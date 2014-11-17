@@ -1,0 +1,24 @@
+{
+  "name": "winston-opbeat",
+  "version": "0.0.1",
+  "description": "A Winston transport for Opbeat",
+  "main": "./lib/winston-opbeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thisjustin/winston-opbeat.git"
+  },
+  "keywords": [
+    "winston",
+    "opbeat",
+    "logging"
+  ],
+  "author": "Justin McCammon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisjustin/winston-opbeat/issues"
+  },
+  "homepage": "https://github.com/thisjustin/winston-opbeat"
+}
